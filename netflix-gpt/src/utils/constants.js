@@ -15,4 +15,4 @@ export const API_OPTIONS = {
   },
 };
 
-export const GEMINIAPI_KEY = 'AIzaSyB80_tuzl6anFH7aJsCvEZolmi0vhJXVe4';
+export const GEMINIAPI_KEY = 'YOUR_API_KEY';
